@@ -3,9 +3,9 @@
 # Álvaro Paredes L. 👋
 
 **CTO @ [Data Observatory](https://www.dataobservatory.net/)** · Data architect, geospatial nerd, professor · Santiago, Chile
-*15+ years turning farms, forests, oceans and climate into data. The data turns into bad news. I just make it interoperable.*
+*15+ years turning farms, forests, oceans and climate into data. The data turns into bad news. I just make it interoperable (or try to ...).*
 
-[💼 LinkedIn](https://www.linkedin.com/in/alvaro-paredes-l) · [🎓 ORCID](https://orcid.org/0000-0003-3174-0979) · [📄 CV](https://github.com/alvaroparedesl/cv) · [✉️ Email](mailto:aaparede@uc.cl)
+[💼 LinkedIn](https://www.linkedin.com/in/alvaro-paredes-l) · [🎓 ORCID](https://orcid.org/0000-0003-3174-0979) · [📄 CV](https://github.com/alvaroparedesl/cv)
 
 </div>
 
@@ -13,14 +13,12 @@
 
 ## 🧑‍💻 About
 
-- CTO at Data Observatory: I make public data findable, accessible, interoperable and reusable (FAIR). Silos hate me.
-- Building a Data Lakehouse so Chile can query transport, health, education and environment data in one place. Yes, it works better than my sleep schedule.
+- CTO at Data Observatory: I make public data findable, accessible, interoperable and reusable (FAIR). Silos hate me (not the TV show I hope, really good one).
+- Building a Data Lakehouse so Chile can query public data in one place, make joins, super joins and all, wherever should be possible (do not expect to cross your horoscope with censal data).
 - Cut cloud costs 80–90% with serverless on AWS. My personal budget has not asked for the same treatment. Yet.
-- Playing with generative AI to enrich metadata ([GEMA!](https://github.com/Data-Observatory/gema)). Robots do the boring parts, I take the blame.
-- Three degrees from PUC (agronomist, MSc Natural Resources, MSc Statistics), so my coffee is also overqualified.
+- Playing with generative AI to enrich metadata ([GEMA!](https://github.com/Data-Observatory/gema)). Robots do the boring parts, I (don't) take the blame.
 - AWS certified ×5. The cloud bill remains undefeated.
 - I teach GIS and remote sensing. Students learn that every map lies, just in different projections.
-- Off the clock: violin, board games, video games, motorbikes, food hunting. Most of them are dangerous in their own way.
 
 ## 🛠️ Stack
 
@@ -50,4 +48,4 @@ Also: Polars, xarray, Airflow/Dagster, Superset, Tableau, Power BI, and a worryi
 Best way to reach me: email or LinkedIn.
 Worst way: a phone call. I will assume somebody died.
 
-<sub>Built with Markdown, caffeine, and a mild fear of compound interest.</sub>
+<sub>Built with Markdown, beer, and a mild fear of compound interest.</sub>
