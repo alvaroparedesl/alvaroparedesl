@@ -2,8 +2,8 @@
 
 # Álvaro Paredes L. 👋
 
-**CTO @ [Data Observatory](https://www.dataobservatory.net/)** · Data architect, geospatial nerd, professor · Santiago, Chile
-*15+ years turning farms, forests, oceans and climate into data. The data turns into bad news. I just make it interoperable (or try to ...).*
+**CTO @ [Data Observatory](https://www.dataobservatory.net/)** · Data architect, geospatial nerd, lecturer · Santiago, Chile
+*15+ years turning farms, forests, oceans and climate into data. The data turns into bad news. I just make it interoperable (or try to…).*
 
 [💼 LinkedIn](https://www.linkedin.com/in/alvaro-paredes-l) · [🎓 ORCID](https://orcid.org/0000-0003-3174-0979)
 
@@ -13,8 +13,8 @@
 
 ## 🧑‍💻 About
 
-- CTO at Data Observatory: I make public data findable, accessible, interoperable and reusable (FAIR). Silos hate me (not the TV show I hope, really good one).
-- Building a Data Lakehouse so Chile can query public data in one place, make joins, super joins and all, wherever should be possible (do not expect to cross your horoscope with censal data).
+- CTO at Data Observatory: I make public data findable, accessible, interoperable and reusable (FAIR). Silos hate me (the data kind, not the TV show. Great show, though).
+- Building a Data Lakehouse so Chile can query public data in one place: joins, super joins and all, wherever possible (but don't expect to join your horoscope with census data).
 - Cut cloud costs 80–90% with serverless on AWS. My personal budget has not asked for the same treatment. Yet.
 - Playing with generative AI to enrich metadata ([GEMA!](https://github.com/Data-Observatory/gema)). Robots do the boring parts, I (don't) take the blame.
 - AWS certified ×5. The cloud bill remains undefeated.
@@ -42,6 +42,10 @@ Also: Polars, xarray, Airflow/Dagster, Superset, Tableau, Power BI, and a worryi
 | [📉 AFP explorer](https://alvaroparedesl.github.io/afps/) | Returns of Chilean pension funds A–E since 1981, nominal and real (UF) | Retirement planning with evidence. Read at your own emotional risk. |
 
 *There are more. I'm not showing them all. A magician never reveals his whole repo list.*
+
+## 🤖 Tokens burned
+
+**~1.9B tokens processed, ~14M of them actually written by a robot.** 27 models, 6 providers, 3 harnesses (Claude Code, OpenCode, omo); mostly Sonnet, GLM, Opus and DeepSeek Flash. The planet-saving score is pending.
 
 ## 📫 Contact
 
