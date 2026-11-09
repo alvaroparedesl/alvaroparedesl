@@ -5,7 +5,7 @@
 **CTO @ [Data Observatory](https://www.dataobservatory.net/)** · Data architect, geospatial nerd, professor · Santiago, Chile
 *15+ years turning farms, forests, oceans and climate into data. The data turns into bad news. I just make it interoperable (or try to ...).*
 
-[💼 LinkedIn](https://www.linkedin.com/in/alvaro-paredes-l) · [🎓 ORCID](https://orcid.org/0000-0003-3174-0979) · [📄 CV](https://github.com/alvaroparedesl/cv)
+[💼 LinkedIn](https://www.linkedin.com/in/alvaro-paredes-l) · [🎓 ORCID](https://orcid.org/0000-0003-3174-0979)
 
 </div>
 
