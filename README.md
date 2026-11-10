@@ -46,27 +46,27 @@ Also: Polars, xarray, Airflow/Dagster, Superset, Tableau, Power BI, and a worryi
 ## 🤖 Tokens burned
 
 <!-- tokens:start -->
-**~1.9B tokens processed, ~14.1M of them actually written by a robot.** 27 models, 6 providers, 3 harnesses (Claude Code, OpenCode, omo). 2026-01-05 → 2026-11-10.
+**~7.0B tokens processed, ~29.1M of them actually written by a robot.** 28 models, 8 providers, 3 harnesses (Claude Code, OpenCode, omo). 2026-01-05 → 2026-11-10.
 
 | Model | % of total | % of generated | Total | Generated |
 |---|--:|--:|--:|--:|
-| `claude-sonnet-5-5` | 54.6% | 40.4% | 1.1B | 5.7M |
-| `glm-5.1` | 10.7% | 10.0% | 207.1M | 1.4M |
-| `claude-opus-5-5` | 9.2% | 8.4% | 178.1M | 1.2M |
-| `glm-5` | 3.7% | 3.7% | 70.7M | 523.9K |
-| `gpt-5.2-codex` | 3.6% | 5.2% | 68.7M | 741.0K |
-| `deepseek-v4-flash` | 2.8% | 5.9% | 53.2M | 832.4K |
-| `gpt-5.3-codex` | 2.7% | 2.1% | 52.3M | 298.1K |
-| `glm-5.2` | 2.5% | 2.7% | 48.4M | 384.9K |
-| `deepseek-v4-pro` | 2.4% | 4.0% | 46.1M | 566.6K |
-| `glm-4.7` | 2.3% | 2.7% | 44.2M | 384.8K |
-| *17 other models* | 5.6% | 14.9% | 108.4M | 2.1M |
+| `glm-5.3` | 35.2% | 14.5% | 2.5B | 4.2M |
+| `claude-sonnet-5-5` | 34.8% | 32.2% | 2.4B | 9.4M |
+| `claude-opus-5-5` | 8.3% | 5.9% | 584.5M | 1.7M |
+| `glm-5.1` | 6.2% | 9.5% | 438.0M | 2.8M |
+| `glm-5.2` | 5.4% | 7.4% | 383.4M | 2.2M |
+| `kimi-k2.5` | 1.5% | 3.2% | 106.7M | 924.4K |
+| `deepseek-v4-pro` | 1.4% | 3.5% | 101.9M | 1.0M |
+| `deepseek-v4-flash` | 1.3% | 5.6% | 90.6M | 1.6M |
+| `glm-5` | 1.0% | 1.8% | 70.7M | 523.9K |
+| `gpt-5.2-codex` | 1.0% | 2.5% | 68.7M | 741.0K |
+| *18 other models* | 3.9% | 13.9% | 272.7M | 4.0M |
 
 | Harness | Messages | Total | Generated |
 |---|--:|--:|--:|
-| Claude Code | 6,356 | 1.2B | 6.9M |
-| OpenCode | 11,078 | 694.9M | 7.2M |
-| omo | 35 | 1.0M | 27.9K |
+| Claude Code | 18,499 | 3.0B | 11.1M |
+| omo | 9,757 | 2.5B | 4.2M |
+| OpenCode | 21,204 | 1.5B | 13.8M |
 
 <sub>Counters only (no prompts, no code), counted by a small stdlib Python script. Last update: 2026-11-10.</sub>
 <!-- tokens:end -->
