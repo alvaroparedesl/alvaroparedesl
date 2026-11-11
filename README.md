@@ -46,29 +46,29 @@ Also: Polars, xarray, Airflow/Dagster, Superset, Tableau, Power BI, and a worryi
 ## 🤖 Tokens burned
 
 <!-- tokens:start -->
-**~7.0B tokens processed, ~29.1M of them actually written by a robot.** 28 models, 8 providers, 3 harnesses (Claude Code, OpenCode, omo). 2026-01-05 → 2026-11-10.
+**~7.1B tokens processed, ~29.3M of them actually written by a robot, worth ~$1,994 at API list prices.** 28 models, 8 providers, 3 harnesses (Claude Code, OpenCode, omo). 2026-01-05 → 2026-11-11.
 
-| Model | % of total | % of generated | Total | Generated |
+| Model | % of total | % of generated | Total | Generated | Est. cost |
+|---|--:|--:|--:|--:|--:|
+| `claude-sonnet-5-5` | 35.2% | 32.7% | 2.5B | 9.6M | $510 |
+| `glm-5.3` | 34.9% | 14.3% | 2.5B | 4.2M | $733 |
+| `claude-opus-5-5` | 8.3% | 5.9% | 587.8M | 1.7M | $276 |
+| `glm-5.1` | 6.2% | 9.4% | 438.0M | 2.8M | $160 |
+| `glm-5.2` | 5.4% | 7.4% | 383.4M | 2.2M | $129 |
+| `kimi-k2.5` | 1.5% | 3.2% | 106.7M | 924.4K | $16 |
+| `deepseek-v4-pro` | 1.4% | 3.5% | 101.9M | 1.0M | $15 |
+| `deepseek-v4-flash` | 1.3% | 5.5% | 90.6M | 1.6M | $3.13 |
+| `glm-5` | 1.0% | 1.8% | 70.7M | 523.9K | $33 |
+| `gpt-5.2-codex` | 1.0% | 2.5% | 68.7M | 741.0K | $28 |
+| *18 other models* | 3.8% | 13.7% | 272.7M | 4.0M | $90 |
+
+| Harness | Messages | Total | Generated | Est. cost |
 |---|--:|--:|--:|--:|
-| `glm-5.3` | 35.2% | 14.5% | 2.5B | 4.2M |
-| `claude-sonnet-5-5` | 34.8% | 32.2% | 2.4B | 9.4M |
-| `claude-opus-5-5` | 8.3% | 5.9% | 584.5M | 1.7M |
-| `glm-5.1` | 6.2% | 9.5% | 438.0M | 2.8M |
-| `glm-5.2` | 5.4% | 7.4% | 383.4M | 2.2M |
-| `kimi-k2.5` | 1.5% | 3.2% | 106.7M | 924.4K |
-| `deepseek-v4-pro` | 1.4% | 3.5% | 101.9M | 1.0M |
-| `deepseek-v4-flash` | 1.3% | 5.6% | 90.6M | 1.6M |
-| `glm-5` | 1.0% | 1.8% | 70.7M | 523.9K |
-| `gpt-5.2-codex` | 1.0% | 2.5% | 68.7M | 741.0K |
-| *18 other models* | 3.9% | 13.9% | 272.7M | 4.0M |
+| Claude Code | 18,804 | 3.1B | 11.4M | $790 |
+| omo | 9,757 | 2.5B | 4.2M | $733 |
+| OpenCode | 21,204 | 1.5B | 13.8M | $471 |
 
-| Harness | Messages | Total | Generated |
-|---|--:|--:|--:|
-| Claude Code | 18,499 | 3.0B | 11.1M |
-| omo | 9,757 | 2.5B | 4.2M |
-| OpenCode | 21,204 | 1.5B | 13.8M |
-
-<sub>Counters only (no prompts, no code), counted by a small stdlib Python script. Last update: 2026-11-10.</sub>
+<sub>Counters only (no prompts, no code), counted by a small stdlib Python script. Cost is an estimate: tokens x public API list prices, not what I actually paid (subscriptions and free tiers cost far less). Last update: 2026-11-11.</sub>
 <!-- tokens:end -->
 
 The planet-saving score is pending.
